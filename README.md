@@ -1,11 +1,13 @@
-# Mastering_DP
-
-Assignment 1:
-
-Ques 1:
+**Assignment 1:**
 
 
-Ques 2:
+**Ques 1:**
+
+Setting up global variables 
+
+**Ques 2:**
 
 
-Ques 3:
+
+**Ques 3:**
+
