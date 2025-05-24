@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int init=0,sales=0, purch=0, loan=0, repay=0, profit=0;
+int sales=0, purch=0, loan=0, repay=0, profit=0;
 vector<tuple<int,int,double,double>> product; // id, quantity, cp, sp
 vector<string> translog;
 
